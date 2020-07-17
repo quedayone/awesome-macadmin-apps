@@ -20,6 +20,12 @@ https://twocanoes.com/products/mac/mac-deploy-stick/
 You are a software developer who just completed a project and it's time to work on shipping it. Or you are an administrator and you need to deploy a plugin on the Mac computers of your network. Whenever you need to create an installation package or distribution for Mac OS X 10.5 or later, Packages is the powerful and flexible solution you're looking for.
 http://s.sudre.free.fr/Software/Packages/about.html
 
+---
+## Privacy Preferences Policy Control (PPPC) Utility
+PPPC Utility is a macOS (10.13 and newer) application for creating configuration profiles containing the Privacy Preferences Policy Control payload for macOS. The profiles can be saved locally signed or unsigned. Profiles can also be uploaded directly to a Jamf Pro server.
+https://github.com/jamf/PPPC-Utility
+
+---
 ## Recipe Robot
 A kick ass tool for creating AutoPkg recipes.  
 https://github.com/homebysix/recipe-robot#
